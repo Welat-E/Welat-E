@@ -4,7 +4,7 @@ I'm a Masteschool student, currently learning Python, HTML, CSS.
 
 In the past years, from being a watch dealer, I decided to change my career to software development! Now, I am excited for continuous improvement.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananishimoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-e&layout=compact)](https://github.com/Welat-E/github-readme-stats)
 
 In case you want to learn more, check out my social media below!
 
