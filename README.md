@@ -16,6 +16,9 @@ In the past years, from being a watch dealer, I decided to change my career to s
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
+
+
 In case you want to learn more, check out my social media below!
 
 <p>
