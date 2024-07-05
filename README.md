@@ -6,6 +6,16 @@ In the past years, from being a watch dealer, I decided to change my career to s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-e&layout=compact)](https://github.com/Welat-E/github-readme-stats)
 
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 In case you want to learn more, check out my social media below!
 
 <p>
