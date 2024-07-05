@@ -1,4 +1,4 @@
-## Hi there, I'm Welat 👋
+## Hi there, I'm Welat Eren👋
 
 I'm a Masteschool student, currently learning Python, HTML, CSS.
 
