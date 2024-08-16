@@ -1,6 +1,6 @@
 ## Hi there, I'm Welat Eren👋
 
-I'm a Masteschool student, currently learning Python, HTML, CSS.
+I'm a <a href="www.masterschool.com">Masteschool</a> student, currently learning Python, HTML, CSS.
 
 In the past years, from being a Watch Dealer, I decided to change my career to Software Development! Now, I am excited for continuous improvement.
 
