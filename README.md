@@ -15,18 +15,17 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 
 
 
-
-
 In case you want to learn more, check out my social media below!
 
-<p>
-  <a href="https://www.instagram.com/welat__e/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+
+<p style="display: flex; gap: 5px; align-items: center;">
+  <a href="https://www.instagram.com/welat__e/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:welaterenug@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+  <a href="mailto:welaterenug@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/welateren/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-   <a href="https://www.linkedin.com/in/welateren/" target="blank">
-    <img align="left" alt="Welat's linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
