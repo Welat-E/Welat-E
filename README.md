@@ -21,12 +21,12 @@ In case you want to learn more, check out my social media below!
 
 <p>
   <a href="https://www.instagram.com/welat__e/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:welaterenug@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-   <a href="https://www.linkedin.com/in/welateren/" target="_blank">
+   <a href="https://www.linkedin.com/in/welateren/" target="blank">
     <img align="left" alt="Welat's linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
