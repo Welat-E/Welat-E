@@ -1,7 +1,12 @@
 ## Hi there, I'm Welat Eren👋
 
-Results-driven Junior Software Engineer specializing in web development with Python. Successfully completed my skills through an Intensive Software Engineering Bootcamp with Masterschool, focusing on Python, SQL, HTML, and CSS. After a customer-facing career as a Taxi Driver and Watch Dealer, I made the bold decision to pursue my passion for Software Development. Driven by a commitment to continuous growth, I am seeking a Junior position where I can leverage my unique background and enthusiasm to contribute to innovation in the tech world.
+Results-driven Junior Software Engineer specializing in web development with Python. Successfully completed my skills through an Intensive Software Engineering Bootcamp with Masterschool. After a customer-facing career as a Taxi Driver and Watch Dealer, I made the bold decision to pursue my passion for Software Development. Driven by a commitment to continuous growth, I am seeking a Junior position where I can leverage my unique background and enthusiasm to contribute to innovation in the tech world.
 
+<details>
+  <summary>Github Stats ⚡</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 <h3>Let's connect:</h3>
 <p>
@@ -22,11 +27,6 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 </p>
-<br>
 
-<details>
-  <summary>Github Stats ⚡</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
