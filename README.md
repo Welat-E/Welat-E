@@ -40,10 +40,3 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 <p>
 <img src="https://skillicons.dev/icons?i=py,html,css,git,flask,postgres,postman"/>
 </p>
-
-
-
-In case you want to learn more, check out my social media below!
-
-
-
