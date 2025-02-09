@@ -24,4 +24,10 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-e&layout=compact)](https://github.com/Welat-E/github-readme-stats)
+<details>
+  <summary>Github Stats ⚡</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-E&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
