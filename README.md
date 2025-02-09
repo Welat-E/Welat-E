@@ -2,8 +2,15 @@
 
 Results-driven Junior Software Engineer specializing in web development with Python. Successfully completed my skills through an Intensive Software Engineering Bootcamp with Masterschool, focusing on Python, SQL, HTML, and CSS. After a customer-facing career as a Taxi Driver and Watch Dealer, I made the bold decision to pursue my passion for Software Development. Driven by a commitment to continuous growth, I am seeking a Junior position where I can leverage my unique background and enthusiasm to contribute to innovation in the tech world.
 
+
 <br>
 
+<h3>Let's connect:</h3>
+<p>
+<a href="https://www.linkedin.com/in/welateren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis papadopoulos" height="30" width="40" /></a>
+</p>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welat-e&layout=compact)](https://github.com/Welat-E/github-readme-stats)
 
