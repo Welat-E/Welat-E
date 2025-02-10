@@ -27,5 +27,5 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/icons8-json-web-token-48.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/SQLAlchemy.svg" width="55" height="55" />
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/pytest.svg" width="55" height="55" />
-<img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/Swagger.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/Swagger.svg" width="45" height="50" />
 </p>
