@@ -24,6 +24,8 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 <p>
 <img src="https://skillicons.dev/icons?i=py,html,css,git,flask,postgres,postman"/>
 
+<img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/icons8-json-web-token-48.svg" width="50" height="50" />
+
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
