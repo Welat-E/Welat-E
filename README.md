@@ -23,7 +23,8 @@ Results-driven Junior Software Engineer specializing in web development with Pyt
 
 <h3 align="left"> 🔧 Languages and Tools:</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=py,html,css,git,flask,postgres,postman"/><br>
+<img src="https://skillicons.dev/icons?i=py,html,css,git,flask,postgres"/><br>
+<img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/icons8-json-web-token-48.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/SQLAlchemy.svg" width="55" height="55" />
 <img src="https://raw.githubusercontent.com/Welat-E/Welat-E/main/pytest.svg" width="55" height="55" />
