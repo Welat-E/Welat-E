@@ -1,6 +1,6 @@
 ## Hi there, I'm Welat 👋
 
-Results-driven Junior Software Engineer specializing in web development with Python. Successfully completed my skills through an Intensive Software Engineering Bootcamp with Masterschool. After a customer-facing career as a Taxi Driver and Watch Dealer, I made the bold decision to pursue my passion for Software Development. Driven by a commitment to continuous growth, I am seeking a Junior position where I can leverage my unique background and enthusiasm to contribute to innovation in the tech world.
+Results-driven Junior Software Engineer specializing in web development with Python. Completed an intensive Software Engineering Bootcamp at Masterschool. After a customer-facing career as a Taxi Driver and Watch Dealer, I boldly pursued my passion for Software Development. Committed to continuous growth, I seek a Junior position where I can leverage my diverse background and enthusiasm to drive innovation in tech.
 
 <h4>
 <details>
